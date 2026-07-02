@@ -2,7 +2,5 @@ streamlit
 pandas
 numpy
 scikit-learn
+matplotlib
 openpyxl
-plotly
-reportlab
-google-genai
